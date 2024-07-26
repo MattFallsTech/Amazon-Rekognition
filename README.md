@@ -14,7 +14,7 @@ In this project, I will be building an image labels generator, using Amazon Reko
 
 <h2>Architectural Diagram</h2>
 
-
+<img src="https://imgur.com/p1SSj3U.png" height="80%" width="80%"/>
 
 <h2>Project walk-through:</h2>
 
